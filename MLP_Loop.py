@@ -15,14 +15,14 @@ from keras.callbacks import TensorBoard
 import pandas
 from keras.models import Model
 
-# Please specify number of layers
+# Specify number of layers
 N_LAYERS = 25
 
-# Width of hidden layer, number of neurons in the hidden layer. all have same size. 
+# Width of hidden layer, number of neurons in the hidden layer. all layers have same width. 
 n_hwidth = 128
 batch_size = 128
 n_classes = 10
-epochs = 2
+epochs = 20
 
 n_layers = N_LAYERS -1
 
