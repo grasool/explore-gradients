@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr 11 13:52:10 2018
+Creates MLP layers 
+Fits the model
+Saves the model
+Saves csv for loss and accuracy (trainig and validation)
+Saves tensorboard summary for Gradients
 
 @author: Ghulam Rasool
 """
