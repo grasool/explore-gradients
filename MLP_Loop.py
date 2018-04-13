@@ -70,13 +70,13 @@ model.compile(loss='categorical_crossentropy', optimizer=RMSprop(), metrics=['ac
 ttb_dir = './MLP_No_SKIP_%s' % N_LAYERS
 callbacks = [TensorBoard(log_dir=ttb_dir, histogram_freq=1, batch_size=32, write_graph=False, write_grads=True, write_images=False)]
 
-#history = model.fit(x_train, y_train, batch_size=batch_size, epochs=epochs, verbose=1, validation_data=(x_test, y_test), callbacks=callbacks)
+history = model.fit(x_train, y_train, batch_size=batch_size, epochs=epochs, verbose=1, validation_data=(x_test, y_test), callbacks=callbacks)
 
 
-#model_name = 'MLP_No_SKIP_%s.h5' % N_LAYERS
-#csv_name = 'MLP_No_SKIP_%s.csv' % N_LAYERS
+model_name = 'MLP_No_SKIP_%s.h5' % N_LAYERS
+csv_name = 'MLP_No_SKIP_%s.csv' % N_LAYERS
 
-#model.save(model_name)
-#pandas.DataFrame(history.history).to_csv(csv_name)
+model.save(model_name)
+pandas.DataFrame(history.history).to_csv(csv_name)
 
 
