@@ -17,4 +17,5 @@ The effect of increasing number of layers from 10 to 40
 ![picture2](https://user-images.githubusercontent.com/15803477/38772451-f84e0288-4004-11e8-885e-bf7d9b37aef4.png)
 
 #### MLP without Batch Normalization and ReLU
+![picture2](https://user-images.githubusercontent.com/15803477/38772509-6c6bb0e2-4006-11e8-80e1-071aece52b0a.png)
 
