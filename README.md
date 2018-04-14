@@ -22,3 +22,4 @@ The effect of increasing number of layers from 10 to 40
 #### MLP with Skip Connections ReLU
 ![picture3](https://user-images.githubusercontent.com/15803477/38772511-6fe84fbe-4006-11e8-954f-ff9aea5f976c.png)
 
+#### Maximum validation accuracy after 20 epochs
