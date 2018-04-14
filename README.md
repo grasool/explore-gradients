@@ -19,3 +19,6 @@ The effect of increasing number of layers from 10 to 40
 #### MLP without Batch Normalization and ReLU
 ![picture2](https://user-images.githubusercontent.com/15803477/38772509-6c6bb0e2-4006-11e8-80e1-071aece52b0a.png)
 
+#### MLP with Skip Connections ReLU
+![picture3](https://user-images.githubusercontent.com/15803477/38772511-6fe84fbe-4006-11e8-954f-ff9aea5f976c.png)
+
