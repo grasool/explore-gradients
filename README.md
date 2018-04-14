@@ -11,5 +11,9 @@ TensorFlow 1.5.0
 Python 3.6.4 Anaconda
 
 
-#### MLP with Batch Normalization and ReLU nonlinearity
+#### MLP with Batch Normalization and ReLU
+The effect of increasing number of layers from 10 to 40
+![picture2](https://user-images.githubusercontent.com/15803477/38772451-f84e0288-4004-11e8-885e-bf7d9b37aef4.png)
+
+#### MLP without Batch Normalization and ReLU
 
