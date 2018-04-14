@@ -10,6 +10,7 @@ TensorFlow 1.5.0
 
 Python 3.6.4 Anaconda
 
+## Results
 
 #### MLP with Batch Normalization and ReLU
 The effect of increasing number of layers from 10 to 40
