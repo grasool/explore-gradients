@@ -23,3 +23,5 @@ The effect of increasing number of layers from 10 to 40
 ![picture3](https://user-images.githubusercontent.com/15803477/38772511-6fe84fbe-4006-11e8-954f-ff9aea5f976c.png)
 
 #### Maximum validation accuracy after 20 epochs
+
+![11-06-2017_heimcombined2](https://user-images.githubusercontent.com/15803477/38772538-eefcf70a-4006-11e8-9411-f00ac8224a2a.png)
