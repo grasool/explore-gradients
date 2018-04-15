@@ -14,24 +14,26 @@ Here are some recent papers that explore the problem of exploding or vanishing g
 
 4.  Stable Architectures for Deep Neural Networks (https://arxiv.org/abs/1705.03341)
 
+5.  Mean Field Residual Networks: On the Edge of Chaos (https://arxiv.org/pdf/1712.08969.pdf)
+
 ### Recurrent Neural Networks
 
-5. Unitary Evolution Recurrent Neural Networks (https://arxiv.org/pdf/1511.06464.pdf)
+1. Unitary Evolution Recurrent Neural Networks (https://arxiv.org/pdf/1511.06464.pdf)
 
-6. Recent Advances in Recurrent Neural Networks (https://arxiv.org/pdf/1801.01078.pdf)
+2. Recent Advances in Recurrent Neural Networks (https://arxiv.org/pdf/1801.01078.pdf)
 
 ### Related Work
-7.  Deep Information Propagation (https://arxiv.org/abs/1611.01232)
+1.  Deep Information Propagation (https://arxiv.org/abs/1611.01232)
 
-8.  Exponential expressivity in deep neural networks through transient chaos (https://arxiv.org/abs/1606.05340v1)
+2.  Exponential expressivity in deep neural networks through transient chaos (https://arxiv.org/abs/1606.05340v1)
 
-9.  Learning across scales - A multiscale method for Convolution Neural Networks (https://arxiv.org/abs/1703.02009)
+3.  Learning across scales - A multiscale method for Convolution Neural Networks (https://arxiv.org/abs/1703.02009)
 
-10. Reversible Architectures for Arbitrarily Deep Residual Neural Networks (https://arxiv.org/abs/1709.03698) 
+4. Reversible Architectures for Arbitrarily Deep Residual Neural Networks (https://arxiv.org/abs/1709.03698) 
 
-11.  Multi-level Residual Networks from Dynamical Systems View (2018) (https://openreview.net/pdf?id=SyJS-OgR-)
+5.  Multi-level Residual Networks from Dynamical Systems View (2018) (https://openreview.net/pdf?id=SyJS-OgR-)
 
-12. On the Expressive Power of Deep Neural Networks (https://arxiv.org/abs/1606.05336)
+6. On the Expressive Power of Deep Neural Networks (https://arxiv.org/abs/1606.05336)
 
 
 
