@@ -22,7 +22,7 @@ Here are some recent papers that explore the problem of exploding or vanishing g
 
 2. Recent Advances in Recurrent Neural Networks (https://arxiv.org/pdf/1801.01078.pdf)
 
-### Related Work
+### Some More
 1.  Deep Information Propagation (https://arxiv.org/abs/1611.01232)
 
 2.  Exponential expressivity in deep neural networks through transient chaos (https://arxiv.org/abs/1606.05340v1)
@@ -31,7 +31,7 @@ Here are some recent papers that explore the problem of exploding or vanishing g
 
 4. Reversible Architectures for Arbitrarily Deep Residual Neural Networks (https://arxiv.org/abs/1709.03698) 
 
-5.  Multi-level Residual Networks from Dynamical Systems View (2018) (https://openreview.net/pdf?id=SyJS-OgR-)
+5.  Multi-level Residual Networks from Dynamical Systems View (https://openreview.net/pdf?id=SyJS-OgR-)
 
 6. On the Expressive Power of Deep Neural Networks (https://arxiv.org/abs/1606.05336)
 
